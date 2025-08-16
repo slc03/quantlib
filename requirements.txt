@@ -7,3 +7,4 @@ scikit-learn==1.7.1
 torch==2.7.1+cu118
 backtesting==0.6.5
 stockstats==0.6.5
+tushare==1.4.21
